@@ -11,6 +11,10 @@ p{
 body{
     background-color: beige;
 }
+.images{
+    margin-top: 100px;
+    margin-left: 200px;
+}
 img{
     width:500px;
     height: 400px;
@@ -20,20 +24,26 @@ li{
 }
 .ingredienser{
     background-color: burlywood;
+    width: 1200px;
+    padding: 10px;
     font-size: 30px;
-    padding-left: 10%;
+    margin-left: 100px;
+    margin-right: 370px;
     margin-bottom: 20px; 
     border: 5px solid black; 
 }
 .instructions{
+    width: 1200px;
     padding: 10px;
     font-size: 30px;
-    padding-left: 10%;
+    margin-left: 100px;
     border: 5px solid black;
     background-color: burlywood;
 }
+footer p {
+    font-size: 12px;
+}
 footer{
-    padding: 50px;
+    padding: 100px;
     text-align: center;
-    text-decoration: none;
 }
